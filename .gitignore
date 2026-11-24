@@ -1,0 +1,28 @@
+# Large dataset
+dataset/
+
+# Trained models and checkpoints
+models/
+*.ckpt
+*.pth
+*.pt
+*.onnx
+
+# Python temporary files
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+.ipynb_checkpoints/
+
+# Cache and logs
+.cache/
+*.log
+
+# IDE and OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+results/benchmark_temp/

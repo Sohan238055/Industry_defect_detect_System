@@ -1,0 +1,4 @@
+Model,Category,Image AUROC,Pixel AUROC,Image F1,Pixel F1
+Traditional ML,Tile,0.6252,,,
+PatchCore Original,Tile,1.0000,0.9580,1.0000,0.6449
+PatchCore Fast,All 15 (Macro Average),0.9812,0.9766,0.9626,0.5626
